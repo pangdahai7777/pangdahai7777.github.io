@@ -8,4 +8,4 @@ description: "这是我的第一篇博客文章。"
 ---
 
 test
-![小猫](/images/cat.jpg)
+![小猫](/images/posts/cat.jpg)
