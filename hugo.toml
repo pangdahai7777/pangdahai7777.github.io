@@ -1,4 +1,4 @@
-baseURL = 'https://pangdahai967.github.io/'
+baseURL = 'https://pangdahai7777.github.io/'
 defaultContentLanguage = 'zh'
 title = '胖大海的博客'
 theme = "github-style"
@@ -14,7 +14,7 @@ staticDir = "static"
 [params]
   author = "胖大海"
   description = "这里是我的个人博客。"
-  github = "pangdahai967"
+  github = "pangdahai7777"
   email = "dahaipang7@gmail.com"
   keywords = "blog, hugo, github pages"
   rss = true
