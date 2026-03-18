@@ -7,6 +7,5 @@ categories: ["博客"]
 description: "这是我的第一篇博客文章。"
 ---
 
-这是正文第一段。
-
-这里可以继续写你的内容。
+test
+![小猫](/images/cat.jpg)
